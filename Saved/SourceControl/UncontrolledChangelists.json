@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Maps/Default.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Widgets/W_HUD.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Foliage/SM_Grass_Clump_03.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Maps/Demo.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Foliage/MI_Grass_02.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Foliage/SM_Grass_Clump_04.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Foliage/SM_Grass_Clump_01.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Foliage/SM_Grass_Clump_02.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Foliage/SM_Grass_Clump_05.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_coin.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Terrain/MI_Terrain_Demo.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Terrain/MI_Terrain_Overlay_01.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Terrain/MI_Terrain_Overlay_02.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/SharedResources/Materials/Terrain/Deprecated/M_Terrain_Master.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_Terrain_Mesh.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Foliage/MI_Grass_01.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/SharedResources/Materials/Foliage/M_Grass_Master.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Maps/Default_sharedassets/Base_LayerInfo.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Props/SM_Tree_Stump_01.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Terrain/MI_Mountains_Overlay.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_Mountains_Mesh.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Terrain/SM_Terrain_02.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/UnrealLearningKit/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Terrain/SM_Terrain_03.uasset"
+			]
+		}
+	]
+}
