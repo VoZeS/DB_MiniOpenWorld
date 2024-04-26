@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/david/OneDrive/Escritorio/UNI/A4/S8/Level Design/OpenWorld/DB_MiniOpenWorld/Content/DavidBoces-MiniOpenWorld.umap",
+				"C:/Users/david/OneDrive/Escritorio/UNI/A4/S8/Level Design/OpenWorld/DB_MiniOpenWorld/Content/Skeleton_StaticMesh.uasset",
+				"C:/Users/david/OneDrive/Escritorio/UNI/A4/S8/Level Design/OpenWorld/DB_MiniOpenWorld/Content/Boat_StaticMesh.uasset",
+				"C:/Users/david/OneDrive/Escritorio/UNI/A4/S8/Level Design/OpenWorld/DB_MiniOpenWorld/Content/Bone_StaticMesh.uasset",
+				"C:/Users/david/OneDrive/Escritorio/UNI/A4/S8/Level Design/OpenWorld/DB_MiniOpenWorld/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RocksRound_Two.uasset",
+				"C:/Users/david/OneDrive/Escritorio/UNI/A4/S8/Level Design/OpenWorld/DB_MiniOpenWorld/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RocksRound_Three.uasset",
+				"C:/Users/david/OneDrive/Escritorio/UNI/A4/S8/Level Design/OpenWorld/DB_MiniOpenWorld/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Rocks/SM_RocksRound_One.uasset",
 				"C:/Users/davidbo5/Desktop/UnrealProject_OpenWorld/Content/DavidBoces-MiniOpenWorld.umap",
 				"C:/Users/davidbo5/Desktop/UnrealProject_OpenWorld/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_Terrain_Mesh.uasset",
 				"C:/Users/davidbo5/Desktop/UnrealProject_OpenWorld/Content/DreamscapeSeries/DreamscapeMeadows/Meshes/Foliage/SM_Grass_Clump_04.uasset",
